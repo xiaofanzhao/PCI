@@ -1,5 +1,9 @@
 # 你真的理解你所使用的统计方法吗？
 
+## 中国科学研究领域*p*值与置信区间的使用情况调查
+
+***
+
 > Tout le monde y croit cependant, car les expérimentateurs s’imaginent que c’est un théorème de mathématiques, et les mathématiciens que c’est un fait expérimental.
 
 > 然而谁都相信这一点（译注：指误差服从正态分布）。实验者认为这是数学定理，而数学家则以为这是实验事实。
@@ -18,11 +22,11 @@
     　　　　　　　　　　　　
 　
  
-                                                                      南开大学周恩来政府管理学院副教授  [吕小康]  xkdog@126.com
- 
-                                                                      清华大学社会科学学院博士  胡传鹏  hcp4715@163.com
- 
-                                                                      南开大学周恩来政府管理学院硕士生  赵晓繁　zxfpsy@163.com
+南开大学周恩来政府管理学院副教授  [吕小康]  xkdog@126.com
+
+清华大学社会科学学院博士、德国XX  胡传鹏  hcp4715@163.com
+
+南开大学周恩来政府管理学院硕士生  赵晓繁　zxfpsy@163.com
 
 
 
