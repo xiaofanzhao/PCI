@@ -1,6 +1,6 @@
 # 你真的理解你所使用的统计方法吗？
 
-## 中国科学研究领域*p*值与置信区间的使用情况调查
+
 
 ***
 
@@ -18,15 +18,15 @@
   
   我们相信，随着这一调查的进行和对相关统计方法之反思的深入，当下科学研究工作的统计分析惯例和结果报告方式将得到进一步的改进与提升。但这首先要求作为科学共同体一员的我们及时表达出自身的需求与建议。
   
-  衷心期待您能参与我们的[调查](https://semtsinghua.au1.qualtrics.com/jfe/form/SV_0Ca30zwIuieym4R)！
+  衷心期待您能参与我们关于[中国自然科学与社会科学领域*p*值与置信区间的使用情况调查](https://semtsinghua.au1.qualtrics.com/jfe/form/SV_0Ca30zwIuieym4R)！
     　　　　　　　　　　　　
 　
  
-南开大学周恩来政府管理学院副教授  [吕小康]  xkdog@126.com
+南开大学周恩来政府管理学院  [吕小康](http://zfxy.nankai.edu.cn/xk) 副教授 xkdog@126.com
 
-清华大学社会科学学院博士、德国XX  胡传鹏  hcp4715@163.com
+清华大学社会科学学院 & Neuroimaging Center, Mainz University 胡传鹏 博士  hcp4715@163.com
 
-南开大学周恩来政府管理学院硕士生  赵晓繁　zxfpsy@163.com
+南开大学周恩来政府管理学院  赵晓繁　硕士生  zxfpsy@163.com
 
 
 
