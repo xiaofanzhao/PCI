@@ -20,8 +20,10 @@
   
   衷心期待您能参与我们关于[中国自然科学与社会科学领域*p*值与置信区间的使用情况调查](https://semtsinghua.au1.qualtrics.com/jfe/form/SV_0Ca30zwIuieym4R)！
     　　　　　　　　　　　　
-　
- 
+***
+
+**发起人**
+
 南开大学周恩来政府管理学院  [吕小康](http://zfxy.nankai.edu.cn/xk) 副教授 xkdog@126.com
 
 清华大学社会科学学院 & Neuroimaging Center, Mainz University 胡传鹏 博士  hcp4715@163.com
@@ -34,16 +36,17 @@
 
 参考文献：
 
-Benjamin, D. J., Berger, J. O., Johannesson, M., Nosek, B. A., Wagenmakers, E.-J., Berk, R., . . . Johnson, V. E. (2017). Redefine Statistical Significance. *Nature Human Behaviour*. doi:10.1038/s41562-017-0189-z
+Benjamin, D. J., Berger, J. O., Johannesson, M., Nosek, B. A., Wagenmakers, E.-J., Berk, R., . . . Johnson, V. E. (2017). Redefine Statistical Significance. *Nature Human Behaviour*. doi:10.1038/s41562-017-0189-z.
 
-Cohen, J. (1994). The earth is round (*p* < .05). *American Psychologist, 49*(12), 997–1003. doi:10.1037/0003-066X.49.12.997
+Cohen, J. (1994). The earth is round (*p* < .05). *American Psychologist, 49*(12), 997–1003. doi:10.1037/0003-066X.49.12.997.
 
-Goodman, S. N. (2016). Aligning statistical and scientific reasoning. *Science, 352*(6290), 1180–1181. doi:10.1126/science.aaf5406
+Goodman, S. N. (2016). Aligning statistical and scientific reasoning. *Science, 352*(6290), 1180–1181. doi:10.1126/science.aaf5406.
 
-Greenland, S., Senn, S. J., Rothman, K. J., Carlin, J. B., Poole, C., Goodman, S. N., & Altman, D. G. (2016). Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations. *European Journal of Epidemiology, 31*(4), 337–350. doi:10.1007/s10654-016-0149-3
+Greenland, S., Senn, S. J., Rothman, K. J., Carlin, J. B., Poole, C., Goodman, S. N., & Altman, D. G. (2016). Statistical tests, *P* values, confidence intervals, and power: a guide to misinterpretations. *European Journal of Epidemiology, 31*(4), 337–350. doi:10.1007/s10654-016-0149-3.
 
-Halsey, L. G., Curran-Everett, D., Vowler, S. L., & Drummond, G. B. (2015). The fickle P value generates irreproducible results. *Nature Methods, 12*(3), 179–185. doi:10.1038/nmeth.3288
+Halsey, L. G., Curran-Everett, D., Vowler, S. L., & Drummond, G. B. (2015). The fickle P value generates irreproducible results. *Nature Methods, 12*(3), 179–185. doi:10.1038/nmeth.3288.
 
-Nuzzo, R. (2014). Scientific method: Statistical errors. *Nature, 506*(7487), 150–152. doi:10.1038/506150a
+Nuzzo, R. (2014). Scientific method: Statistical errors. *Nature, 506*(7487), 150–152. doi:10.1038/506150a.
 
-Wasserstein, R. L., & Lazar, N. A. (2016). The ASA's statement on p-values: context, process, and purpose. *The American Statistician, 70*(2), 129–133. doi:10.1080/00031305.2016.1154108
+Wasserstein, R. L., & Lazar, N. A. (2016). The ASA's statement on p-values: context, process, and purpose. *The American Statistician, 70*(2), 129–133. doi:10.1080/00031305.2016.1154108.
+
