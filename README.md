@@ -48,5 +48,5 @@ Halsey, L. G., Curran-Everett, D., Vowler, S. L., & Drummond, G. B. (2015). The 
 
 Nuzzo, R. (2014). Scientific method: Statistical errors. *Nature, 506*(7487), 150–152. doi:10.1038/506150a.
 
-Wasserstein, R. L., & Lazar, N. A. (2016). The ASA's statement on p-values: context, process, and purpose. *The American Statistician, 70*(2), 129–133. doi:10.1080/00031305.2016.1154108.
+Wasserstein, R. L., & Lazar, N. A. (2016). The ASA's statement on *p*-values: context, process, and purpose. *The American Statistician, 70*(2), 129–133. doi:10.1080/00031305.2016.1154108.
 
