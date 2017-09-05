@@ -28,7 +28,7 @@
 
 胡传鹏  清华大学社会科学学院 博士; Neuroimaging Center, Mainz University, Germany, Postdoctoral;    hcp4715@163.com
 
-南开大学周恩来政府管理学院   赵晓繁 　硕士生;   zxfpsy@163.com
+赵晓繁  南开大学周恩来政府管理学院  硕士生;   zxfpsy@163.com
 
 
 
