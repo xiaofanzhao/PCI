@@ -30,7 +30,7 @@
 胡传鹏 | [清华大学社会科学学院](http://www.sss.tsinghua.edu.cn/)；[Neuroimaging Center](http://www.ftn.nic.uni-mainz.de/en/), Mainz University | 博士；博士后 |  hcp4715@163.com
 赵晓繁 | [南开大学周恩来政府管理学院](http://zfxy.nankai.edu.cn/)  | 硕士生 | zxfpsy@163.com
 
-
+如有任何疑问或拟商量合作调查事宜，请发信至上述任一邮箱，谢谢！
 
 ***
 
