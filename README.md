@@ -24,11 +24,11 @@
 
 **发起人**
 
-南开大学周恩来政府管理学院  [吕小康](http://zfxy.nankai.edu.cn/xk) 副教授 xkdog@126.com
+[吕小康](http://zfxy.nankai.edu.cn/xk) 南开大学周恩来政府管理学院  副教授; xkdog@126.com
 
-清华大学社会科学学院 & Neuroimaging Center, Mainz University, Germany 胡传鹏 博士  hcp4715@163.com
+胡传鹏  清华大学社会科学学院 博士; Neuroimaging Center, Mainz University, Germany, Postdoctoral;    hcp4715@163.com
 
-南开大学周恩来政府管理学院   赵晓繁 　硕士生   zxfpsy@163.com
+南开大学周恩来政府管理学院   赵晓繁 　硕士生;   zxfpsy@163.com
 
 
 
