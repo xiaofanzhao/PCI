@@ -44,7 +44,7 @@ Goodman, S. N. (2016). Aligning statistical and scientific reasoning. *Science, 
 
 Greenland, S., Senn, S. J., Rothman, K. J., Carlin, J. B., Poole, C., Goodman, S. N., & Altman, D. G. (2016). Statistical tests, *P* values, confidence intervals, and power: a guide to misinterpretations. *European Journal of Epidemiology, 31*(4), 337–350. doi:10.1007/s10654-016-0149-3.
 
-Halsey, L. G., Curran-Everett, D., Vowler, S. L., & Drummond, G. B. (2015). The fickle P value generates irreproducible results. *Nature Methods, 12*(3), 179–185. doi:10.1038/nmeth.3288.
+Halsey, L. G., Curran-Everett, D., Vowler, S. L., & Drummond, G. B. (2015). The fickle *P* value generates irreproducible results. *Nature Methods, 12*(3), 179–185. doi:10.1038/nmeth.3288.
 
 Nuzzo, R. (2014). Scientific method: Statistical errors. *Nature, 506*(7487), 150–152. doi:10.1038/506150a.
 
