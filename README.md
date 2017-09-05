@@ -26,9 +26,9 @@
 
 姓名 | 单位  | 职称  | 邮箱
 -----|---------|-------|------
-[吕小康](http://zfxy.nankai.edu.cn/xk) | 南开大学周恩来政府管理学院 | 副教授 | xkdog@126.com
-胡传鹏 | 清华大学社会科学学院；[Neuroimaging Center](http://www.ftn.nic.uni-mainz.de/en/), Mainz University | 博士；博士后 |  hcp4715@163.com
-赵晓繁 | 南开大学周恩来政府管理学院  | 硕士生 | zxfpsy@163.com
+[吕小康](http://zfxy.nankai.edu.cn/xk) | [南开大学周恩来政府管理学院](http://zfxy.nankai.edu.cn/) | 副教授 | xkdog@126.com
+胡传鹏 | [清华大学社会科学学院](http://www.sss.tsinghua.edu.cn/)；[Neuroimaging Center](http://www.ftn.nic.uni-mainz.de/en/), Mainz University | 博士；博士后 |  hcp4715@163.com
+赵晓繁 | [南开大学周恩来政府管理学院](http://zfxy.nankai.edu.cn/)  | 硕士生 | zxfpsy@163.com
 
 
 
