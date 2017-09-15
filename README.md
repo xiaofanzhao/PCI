@@ -1,6 +1,6 @@
 # 你真的理解你所使用的统计方法吗？
 
-点此可直接进入[*p*值与置信区间的使用情况调查](https://semtsinghua.au1.qualtrics.com/jfe/form/SV_0Ca30zwIuieym4R)。
+点此可直接进入[*p*值与置信区间的使用情况调查](https://semtsinghua.au1.qualtrics.com/jfe/form/SV_0Ca30zwIuieym4R)。约16道问题（不同背景的被试问题题不完全相同），熟悉者5分钟左右可完成。
 
 ***
 
